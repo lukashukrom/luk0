@@ -1,0 +1,6 @@
+C:\Users\omaro\Desktop\0000000000000000\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\omaro\Desktop\0000000000000000\Lab2\bin\Debug\Lab2.exe
+C:\Users\omaro\Desktop\0000000000000000\Lab2\bin\Debug\Lab2.pdb
+C:\Users\omaro\Desktop\0000000000000000\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\omaro\Desktop\0000000000000000\Lab2\obj\Debug\Lab2.exe
+C:\Users\omaro\Desktop\0000000000000000\Lab2\obj\Debug\Lab2.pdb
